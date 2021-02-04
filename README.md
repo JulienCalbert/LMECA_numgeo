@@ -8,6 +8,6 @@ Numerical Geometry Project
 
 
 [docs-stable-img]: https://img.shields.io/badge/docs-stable-blue.svg
-[docs-stable-url]: https://JulienCalbert/Numerical-Geometry/stable
+[docs-stable-url]: https://juliencalbert.github.io/Numerical-Geometry/
 
-Demonstration: [animation-Voronoi](https://youtu.be/NElIesvDdjE)
+Demonstration: [animation-Voronoi](https://youtu.be/NElIesvDdjE).
