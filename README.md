@@ -1,4 +1,4 @@
-Numerical Geometry Project
+Numerical Geometry Voronoi
 ==========================
 
 | **Documentation** |
