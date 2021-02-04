@@ -1,0 +1,4 @@
+Examples
+==========
+
+Voici un example.
